@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Traveling salesman problem using a genetic algorithm</h3>
+  <h1 align="center">Traveling salesman problem using a genetic algorithm</h1>
 
   <p align="center">
     Given a distance matrix between n cities, find the shortest path that goes through each city exactly once using a genetic algorithm.
